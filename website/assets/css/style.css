@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+   background: #ffffff;
 }
 
 .tagline{
@@ -14,4 +14,3 @@ body{
 .tagline > div > h2 {
     font-weight: 500;
 }
-
