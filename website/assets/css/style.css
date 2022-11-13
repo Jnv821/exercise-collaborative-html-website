@@ -14,10 +14,17 @@ body{
 .tagline > div > h2 {
     font-weight: 500;
 }
+
+.card-text{
+    font-size: 12px;
+    font-weight: 500;
+    }
+    
 .image-first-heading img{
     width:400px; 
     height:400px;
 }
+
 .image-services img{
     width:250px; 
     height:250px;
