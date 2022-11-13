@@ -4,7 +4,8 @@ body{
 
 .tagline{
     background-image: url(../img/bg.jpg);
-    height: 100vh;
+    min-height: 100vh;
+    background-size: cover;
 }
 .tagline > div > div > h1 {
     font-size: 128px;
