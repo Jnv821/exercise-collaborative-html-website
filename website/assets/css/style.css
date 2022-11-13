@@ -4,7 +4,7 @@ body{
 
 .tagline{
     background-image: url(../img/bg.jpg);
-    min-height: 100vh;
+    min-height: 80vh;
     background-size: cover;
 }
 .tagline > div > div > h1 {
