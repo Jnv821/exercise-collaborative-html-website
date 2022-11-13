@@ -4,14 +4,14 @@ body{
 
 .tagline{
     background-image: url(../img/bg.jpg);
-    background-size: cover;
+    height: 100vh;
 }
-.tagline > div > h1 {
-    font-size: 96px;
+.tagline > div > div > h1 {
+    font-size: 128px;
     font-weight: 500;
 }
 
-.tagline > div > h2 {
+.tagline > div > div > h2 {
     font-weight: 500;
 }
 
