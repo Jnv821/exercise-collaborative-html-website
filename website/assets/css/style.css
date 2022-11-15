@@ -1,3 +1,28 @@
-body{
+body {
     background: #ffffff;
+}
+
+.mb-3 {
+    width: 500px;
+    margin: auto;
+    background-color: rgb(231, 221, 221);
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 0.25rem !important;
+    border: 6px;
+}
+
+.button{
+    margin: auto;
+    width: 110px; 
+    margin-left: 70%;
+    color:white;
+    background-color: rgba(0, 0, 255, 0.856);
+   
+}
+.contacto2{
+    font-size: medium;
+    color: black;
+    margin: auto;
+    border-radius: 8px;
 }
