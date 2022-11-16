@@ -2,16 +2,19 @@ body{
    background: #ffffff;
 }
 
-.tagline{
-    background-image: url(../img/bg.jpg);
-    background-size: cover;
-}
-.tagline > div > h1 {
-    font-size: 96px;
+.tagline > div > div > h1 {
+    font-size: 72px;
     font-weight: 500;
 }
 
-.tagline > div > h2 {
+.tagline > img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        object-position: bottom;
+}
+.tagline > div > div > h2 {
+    font-size: 46px;
     font-weight: 500;
 }
 
