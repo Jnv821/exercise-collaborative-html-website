@@ -32,3 +32,8 @@ body{
     width:250px; 
     height:250px;
 }
+
+ .form-background{
+     background-color: #F5F5F5;
+     margin: auto;
+ }
